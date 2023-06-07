@@ -2,7 +2,7 @@
 ## Download 
 Git Clone
 ```
-https://github.com/alirfanyasin/Rest-api-MEN.git
+git clone https://github.com/alirfanyasin/Rest-api-MEN.git
 ```
 
 Format ZIP
